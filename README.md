@@ -3,6 +3,8 @@
 Experiments on tuning hyperparameters of entropy-based methods (Approximate, Sample, Bubble, Permutation, Slope, Dispersion) for change point detection.  
 The project includes validation on synthetic datasets (ECG, Finance) and application to the real-world dataset **Coal Mining Disasters** (annual records of mining accidents with fatalities).  
 
+Comparison is also made with [Bayesian CPD implementation by Alexey Tatyanenko](https://github.com/alexdtat/change-point-detection).  
+
 ## Features
 - Implementation of entropy-based change point detection methods  
 - Manual hyperparameter tuning and calibration  
